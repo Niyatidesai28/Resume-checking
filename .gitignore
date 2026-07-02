@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual env
+.venv/
+venv/
+env/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Logs/cache
+*.log
+.cache/
+.pytest_cache/
+
+# Local data/uploads
+uploads/
+*.pdf
+*.docx
+*.xlsx

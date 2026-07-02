@@ -1,0 +1,10 @@
+streamlit==1.49.1
+pandas
+numpy
+scikit-learn
+sentence-transformers
+torch
+pillow==11.3.0
+pdfplumber==0.11.7
+python-docx
+openpyxl
