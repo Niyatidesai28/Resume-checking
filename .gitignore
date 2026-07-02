@@ -3,27 +3,26 @@ __pycache__/
 *.py[cod]
 *.pyo
 *.pyd
-.Python
 
 # Virtual env
 .venv/
 venv/
 env/
 
-# Streamlit
+# Streamlit secrets
 .streamlit/secrets.toml
 
-# OS / editor
+# OS/editor
 .DS_Store
 .vscode/
 .idea/
 
-# Logs/cache
-*.log
+# Cache/logs
 .cache/
 .pytest_cache/
+*.log
 
-# Local data/uploads
+# Local uploads/data
 uploads/
 *.pdf
 *.docx
